@@ -1,0 +1,16 @@
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif ;
+}
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+.odd.diff {
+    font-size: 24px;
+}
+#green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
