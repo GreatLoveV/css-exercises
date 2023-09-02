@@ -10,6 +10,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  max-width: 200px;
 }
 .title {
   font-size: 36px;
@@ -22,7 +23,7 @@ img {
   display: flex;
   justify-content: space-around;
   gap :52px;
-  flex: 1 1 200px
+  
 }
 
 
